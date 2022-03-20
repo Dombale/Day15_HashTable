@@ -1,7 +1,5 @@
 package com.blz;
 
-import org.w3c.dom.Node;
-
 public class HashTableImplementation<K, V> {
 	Node head;
 	Node tail;
